@@ -1,0 +1,37 @@
+Title,Last Name,First Name,Series,Number,Genre,Owned,Status,Rating,New
+Library Of The Unwritten,Hackwith,A. J.,Hell's Library,1,Fantasy,1,Read,4,0
+Archive Of The Forgotten,Hackwith,A. J.,Hell's Library,2,Fantasy,0,Not Read,4,0
+The Black Prism,Weeks,Brent,Lightbringer,1,Fantasy,1,Read,10,0
+The Blinding Knife,Weeks,Brent,Lightbringer,2,Fantasy,1,Read,10,0
+Gunner's Apprentice,Weeks,Brent,Lightbringer,3,Fantasy,1,Read,10,0
+The Broken Eye,Weeks,Brent,Lightbringer,4,Fantasy,1,Read,10,0
+The Blood Mirror,Weeks,Brent,Lightbringer,5,Fantasy,1,Read,10,0
+The Burning Witch,Weeks,Brent,Lightbringer,6,Fantasy,1,Read,10,0
+Sabriel,Nix,Garth,Old Kingdom,1,Fiction (Teen),1,Read,4,0
+Lirael,Nix,Garth,Old Kingdom,2,Fiction (Teen),0,Not Read,4,0
+Abhorsen,Nix,Garth,Old Kingdom,3,Fiction (Teen),0,Not Read,4,0
+Clariel,Nix,Garth,Old Kingdom,4,Fiction (Teen),1,Read,4,0
+Goldenhand,Nix,Garth,Old Kingdom,5,Fiction (Teen),0,Not Read,4,0
+Carve The Mark,Roth,Veronica,Carve The Mark,1,Fiction (Teen),1,Read,4,0
+The Fates Divide,Roth,Veronica,Carve The Mark,2,Fiction (Teen),0,Not Read,4,0
+Alice In Zombieland,Showalter,Gena,The White Rabbit Chronicles,1,Fiction (Teen),1,Read,10,0
+Through The Zombie Glass,Showalter,Gena,The White Rabbit Chronicles,2,Fiction (Teen),1,Read,10,0
+Queen Of Zombie Hearts,Showalter,Gena,The White Rabbit Chronicles,3,Fiction (Teen),1,Read,10,0
+A Mad Zombie Party,Showalter,Gena,The White Rabbit Chronicles,4,Fiction (Teen),1,Read,10,0
+Go Ask Alice,0,Anonymous,Anonymous,1,Mental Health,1,Read,5,0
+Lucy In The Sky,0,Anonymous,Anonymous,2,Mental Health,1,Read,5,0
+Letting Ana Go,0,Anonymous,Anonymous,3,Mental Health,1,Read,5,0
+The Book Of David,0,Anonymous,Anonymous,4,Mental Health,1,Read,5,0
+Jay's Journal,0,Anonymous,Anonymous,5,Mental Health,1,Read,5,0
+Calling Maggie May,0,Anonymous,Anonymous,6,Mental Health,0,Not Read,5,0
+Breaking Bailey,0,Anonymous,Anonymous,7,Mental Health,0,Not Read,5,0
+Burned,Hopkins,Ellen,Burned,1,Mental Health,0,Not Read,5,0
+Smoke,Hopkins,Ellen,Burned,2,Mental Health,1,Read,5,0
+Crank,Hopkins,Ellen,Crank,1,Mental Health,1,Read,5,0
+Glass,Hopkins,Ellen,Crank,2,Mental Health,0,Not Read,5,0
+Fallout,Hopkins,Ellen,Crank,3,Mental Health,0,Not Read,5,0
+Impulse,Hopkins,Ellen,Impulse,1,Mental Health,1,Read,5,0
+Perfect,Hopkins,Ellen,Impulse,2,Mental Health,0,Not Read,5,0
+Dark Side Of The Moon,Kenyon,Sherrilyn,Dark Hunter,0,Romance,1,Read,5,0
+Dragonmark,Kenyon,Sherrilyn,Dark Hunter,0,Romance,1,Read,5,0
+Night Play,Kenyon,Sherrilyn,Dark Hunter,0,Romance,1,Read,5,0
